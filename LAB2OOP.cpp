@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//created by Mitsai Ruslan
+#include <iostream>
 #include <stdio.h>
 #include <math.h>
 #include <locale.h>
