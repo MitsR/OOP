@@ -1,0 +1,22 @@
+Pashkewich Yurii 4 3 2
+Denicenko Vadim 5 5 5
+Pavlenko Irina 1 1 1
+Pavchyk Bigdan 2 3 2
+Stepanenko Dmitro 3 3 3
+Valkov Ivan 4 4 4
+Doda Duda 5 1 2
+Babai Oleg 5 5 5
+Bendera Stepan 2 2 2
+Olecksienko Alina 3 4 3
+Sternenko Sergii 3 3 3
+Olecksandrenko Olecksandr 1 1 1
+Vasilkiv Denis 3 2 3
+Travnevii Dmitro 3 1 1
+Veresnevii Mickhailo 3 4 4
+Zinchenko Ivan 5 1 1
+Tereshko Vadim 5 5 5
+Jadan Vadim 1 2 3
+Nejadan Yuirii 3 4 1
+Silutin Ruslan 2 2 2
+Vadumenko Anton 4 4 3
+
