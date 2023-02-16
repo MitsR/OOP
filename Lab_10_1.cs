@@ -1,4 +1,4 @@
-namespace Work_1_2
+namespace Work_2_1
 {
     internal class Program
     {
