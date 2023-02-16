@@ -1,12 +1,13 @@
+
 namespace Work_1
 {
-     internal class Program
+    class Program
     {
         static double Calculation(double x, double y, double z)
         {
             double fpart, spart, a;
-             fpart = x + (Math.Pow(z,2))+ (y/4) ;
-             spart = z * (y-2) + (1/(4+(Math.Pow(z,2)))) ;
+            fpart = x + (Math.Pow(z, 2)) + (y / 4);
+            spart = z * (y - 2) + (1 / (4 + (Math.Pow(z, 2))));
             a = fpart / spart;
             return a;
         }
@@ -36,8 +37,6 @@ namespace Work_1
             {
                 Console.WriteLine("Х бiльше за 10");
             }
-        }
-
         static void Main()
         {
             double x, y, z, result;
@@ -57,12 +56,20 @@ namespace Work_1
                 result = Calculation(x, y, z);
                 RangeForX(x);
                 Console.WriteLine("Результат розрахунку прикладу - " + result);
+                if(result<0)
+                {
+                    Console.WriteLine("Результат негативний");
+  
+                }
+                else
+                    Console.WriteLine("Результат позитивний");
 
 
-                
+
             } while (x != 0);
             Console.WriteLine("Виконання програми завершено");
-            
+
         }
     }
 }
+    }
