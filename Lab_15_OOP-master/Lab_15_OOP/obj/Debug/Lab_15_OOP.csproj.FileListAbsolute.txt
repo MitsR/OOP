@@ -1,0 +1,14 @@
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\bin\Debug\Lab_15_OOP.exe.config
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\bin\Debug\Lab_15_OOP.exe
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\bin\Debug\Lab_15_OOP.pdb
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.csproj.AssemblyReference.cache
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.Calculation.resources
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.Form1.resources
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.Properties.Resources.resources
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.task1.resources
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.task2.resources
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.csproj.GenerateResource.cache
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.csproj.CoreCompileInputs.cache
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.exe
+C:\Users\costa\OneDrive\Рабочий стол\Lab_15_OOP-master\Lab_15_OOP\obj\Debug\Lab_15_OOP.pdb
